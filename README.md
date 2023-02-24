@@ -6,11 +6,16 @@ https://github.com/JANCARLO123/go-gorm
 go mod init github.com/JANCARLO123/go-gorm
 
 
-# instalar 
+# installation
 
 https://github.com/gorilla/mux 
 
+* [Gorilla/mux](#Gorilla Mux)
+* [Gorm ](#Gorm)
 
+
+
+# Gorilla Mux
 
 ![Gorilla Logo](https://cloud-cdn.questionable.services/gorilla-icon-64.png)
 
@@ -98,8 +103,9 @@ docker run -it --rm \
 
 
 
+# Gorm
+## :cloud: The fantastic ORM library for Golang aims to be developer friendly.
 
-# :The fantastic ORM library for Golang aims to be developer friendly.
 https://gorm.io/docs/
 
 * [Install](#install )
