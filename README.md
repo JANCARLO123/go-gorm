@@ -8,8 +8,9 @@ go mod init github.com/JANCARLO123/go-gorm
 
 # instalar 
 
-# https://github.com/gorilla/mux 
-go get -u github.com/gorilla/mux
+https://github.com/gorilla/mux 
+
+
 
 ![Gorilla Logo](https://cloud-cdn.questionable.services/gorilla-icon-64.png)
 
@@ -37,13 +38,15 @@ func main() {
     http.Handle("/", r)
 }
 
+
+```
 # :cloud: Air - Live reload for Go apps
 
 
 ![air](docs/air.png)
 
-* [Install](#install )
-* [Examples](#examples)
+* [Install](#Installation )
+* [Examples](#Examples)
 
 
 ## Installation
@@ -76,7 +79,7 @@ docker run -it --rm \
     cosmtrek/air
     -c <CONF>
 ```
-
+### Examples
 <details>
   <summary>For example</summary>
 
